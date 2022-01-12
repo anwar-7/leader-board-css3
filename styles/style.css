@@ -99,8 +99,9 @@ hr {
   justify-content: space-between;
 }
 .course-duration {
+  padding: 5px;
   background-color: #ffe4e8;
-  border-radius: 14.6913px;
+  border-radius: 50px;
 }
 .fa-star {
   font-size: 12px;
